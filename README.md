@@ -1,6 +1,6 @@
-- Hi, I’m Don.
+- Hello, I’m Don.
 - I’m interested in image processing, physics simulation, and scientific programming.
-- I also do a bit of web dev, mostly in vanilla js + jquery + css3 or node + next.js + tailwind.css.
+- I also do web dev (only a bit).
 - Checkout my portfolio [here](https://don-le.vercel.app/).
 
 
