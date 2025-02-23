@@ -1,5 +1,6 @@
 - Hello, I’m Don.
-- I’m interested in image processing, physics simulation, and scientific programming.
+- I’m interested in image processing, physics simulation, scientific programming, and low-level programming.
+- Favorite Languages: C, C++, Rust, and Python.
 - I also do web dev (only a bit).
 - Checkout my portfolio [here](https://don-le.vercel.app/).
 
