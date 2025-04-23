@@ -1,5 +1,5 @@
-- Hello, I’m Don.
-- I’m interested in PDE, computer vision, scientific computing & simulation, and low-latency programming.
+- Hello, my [English] name is Don.
+- I’m interested in PDE, computer vision, scientific programming and simulation, parallel computing, and low-latency C/C++.
 - Favorite Languages: C, C++, CUDA, and Python.
 - I am learning Rust.
 - I also do web dev (only when needed).
