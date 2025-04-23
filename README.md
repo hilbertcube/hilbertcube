@@ -1,4 +1,4 @@
-- Hello, my [English] name is Don.
+- Hello, my name is Don.
 - I’m interested in PDE, computer vision, scientific programming and simulation, parallel computing, and low-latency C/C++.
 - Favorite Languages: C, C++, CUDA, and Python.
 - I am learning Rust.
