@@ -4,7 +4,7 @@
 - I am learning Rust.
 - I also do web dev (only when needed).
 - Links:
-  * [Professional website](https://don-le.vercel.app/)
+  * [Professional website](https://ddonle.com/)
   * [Personal website](https://neumanncondition.com/)
 
 <!---
