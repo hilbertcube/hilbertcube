@@ -1,7 +1,7 @@
 - Hello, my name is Don.
 - I’m interested in PDE, computer vision, scientific programming and simulation, parallel computing, and low-latency C/C++.
-- Favorite Languages: C, C++, CUDA, and Python.
-- I am learning Rust.
+- Favorite languages: C, C++, CUDA, Rust, and Python.
+- Less favorable languages: Javascript
 - I also do web dev (only when needed).
 - Links:
   * [Professional website](https://ddonle.com/)
