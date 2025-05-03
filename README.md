@@ -1,7 +1,8 @@
 - Hello, my name is Don.
 - I’m interested in PDE, computer vision, scientific programming and simulation, parallel computing, and low-latency C/C++.
-- Favorite languages: C, C++, CUDA, Rust, and Python.
-- Less favorable languages: Javascript
+- Favorite languages: C, C++, CUDA, Rust.
+- Neutral: Python, Java
+- Less favorable: Javascript, Matlab.
 - I also do web dev (only when needed).
 - Links:
   * [Professional website](https://ddonle.com/)
