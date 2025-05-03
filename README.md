@@ -1,8 +1,7 @@
 - Hello, my name is Don.
 - I’m interested in partial differential equations, computer vision, high-performance scientific computing and simulation, and low-latency C/C++.
-- Favorite languages: C, C++, CUDA, Rust.
-- Neutral: Python, Java
-- Less favorable: Javascript, Matlab.
+- Favorite languages: C, C++, CUDA, Rust, and Python.
+- Less favorable: Javascript.
 - I also do web dev (only when needed).
 - Links:
   * [Professional website](https://ddonle.com/)
