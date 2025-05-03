@@ -1,5 +1,5 @@
 - Hello, my name is Don.
-- I’m interested in PDE, computer vision, scientific programming and simulation, parallel computing, and low-latency C/C++.
+- I’m interested in partial differential equations, computer vision, high-performance scientific computing and simulation, and low-latency C/C++.
 - Favorite languages: C, C++, CUDA, Rust.
 - Neutral: Python, Java
 - Less favorable: Javascript, Matlab.
