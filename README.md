@@ -1,14 +1,11 @@
-- I’m interested in PDEs modelling, computer vision, high-performance computing, scientific simulation, and low-latency C/C++
-- I'm currently working on a CUDA-accelerated ray tracer and a 3D physics engine
+- Hello, my name is Don
+- I focus mostly on ODEs/PDEs modelling, computer vision, high-performance computing, and low-latency C/C++
+- I'm currently working on a 3D physics engine in C++
 - Favorite languages: C, C++, CUDA, Rust, and Python
 - Less favorable: Javascript
-- I also do web dev (only when needed)
+- Web dev? Only when I must—
 - Mail: ddonle04@ucla.edu
-- Links:
-  * [Professional website](https://ddonle.com/)
-  * [Personal website](https://neumanncondition.com/)
-  * [Linkedin](https://www.linkedin.com/in/don-d-le/)
-  * [Telegram](https://t.me/doodle_04)
+- Links: [Professional website](https://ddonle.com/), [Personal website](https://neumanncondition.com/), [Linkedin](https://www.linkedin.com/in/don-d-le/), [Telegram](https://t.me/doodle_04)
 
 
 <!---
