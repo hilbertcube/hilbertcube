@@ -5,7 +5,11 @@
 - Less favorable: Javascript
 - Web dev? Only when I must—
 - Mail: ddonle04@ucla.edu
-- Links: [Professional website](https://ddonle.com/), [Personal website](https://neumanncondition.com/), [Linkedin](https://www.linkedin.com/in/don-d-le/), [Telegram](https://t.me/doodle_04)
+- Links:
+  * [Professional website](https://ddonle.com/)
+  * [Personal website](https://neumanncondition.com/)
+  * [Linkedin](https://www.linkedin.com/in/don-d-le/)
+  * [Telegram](https://t.me/doodle_04)
 
 
 <!---
