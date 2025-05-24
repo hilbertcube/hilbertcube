@@ -1,5 +1,5 @@
-- Hello, my name is Don
 - I’m interested in PDEs modelling, computer vision, high-performance computing, scientific simulation, and low-latency C/C++
+- I'm currently working on a CUDA-accelerated ray tracer and a 3D physics engine
 - Favorite languages: C, C++, CUDA, Rust, and Python
 - Less favorable: Javascript
 - I also do web dev (only when needed)
