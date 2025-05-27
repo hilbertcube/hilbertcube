@@ -3,7 +3,6 @@
 - I'm currently working on a 3D physics engine in C++
 - Favorite languages: C, C++, CUDA, Rust, and Python
 - Less favorable: ~~Javascript~~, Matlab
-- Web dev? Only when I must—
 - Mail: ddonle04@ucla.edu
 - Links:
   * [Professional website](https://ddonle.com/)
