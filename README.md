@@ -1,7 +1,7 @@
 - I focus mostly on ODEs/PDEs modelling, computer vision, high-performance computing, and low-latency C/C++
 - I'm currently working on a 3D physics engine in C++
 - Favorite languages: C, C++, CUDA, Rust, and Python
-- Less favorable: ~~Javascript~~, Matlab
+- Less favorable: ~~Javascript~~
 - Mail: ddonle04@ucla.edu
 - Links:
   * [Professional website](https://ddonle.com/)
