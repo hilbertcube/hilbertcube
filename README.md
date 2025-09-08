@@ -1,15 +1,11 @@
-- I focus mostly on ODEs/PDEs modelling, computer vision, high-performance computing, and low-latency C/C++
-- Favorite languages: C, C++, CUDA, Rust, and Python
+- I focus mostly on ODEs/PDEs modelling, computer vision, high-performance computing, and low-latency C, C++
+- Favorite languages: C++, C, CUDA, Rust, and Python
 - Less favorable: ~~Javascript~~
-- Mail: ddonle04[at]ucla[dot]edu
+- Mail: ddonle04@ucla.edu
 - Links:
   * [Professional website](https://ddonle.com/)
   * [Personal website](https://neumanncondition.com/)
   * [Telegram](https://t.me/doodle_04)
-
-<!---
-
---->
 
 <!---
 Continuum3416/Continuum3416 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
