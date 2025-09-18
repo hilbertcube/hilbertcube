@@ -2,7 +2,6 @@
 - I'm currently a student at UCLA
 - Favorite languages: C++, C, CUDA, Rust, and Python
 - Less favorable: ~~Javascript~~
-- Mail: ddonle04@ucla.edu
 - Links:
   * [Main website](https://ddonle.com/)
   * [Personal website](https://neumanncondition.com/)
