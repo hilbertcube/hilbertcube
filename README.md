@@ -1,9 +1,10 @@
-- I focus mostly on ODEs/PDEs modelling, computer vision, high-performance computing, and low-latency C, C++
+
+- I'm currently a student at UCLA
 - Favorite languages: C++, C, CUDA, Rust, and Python
 - Less favorable: ~~Javascript~~
 - Mail: ddonle04@ucla.edu
 - Links:
-  * [Professional website](https://ddonle.com/)
+  * [Main website](https://ddonle.com/)
   * [Personal website](https://neumanncondition.com/)
   * [Telegram](https://t.me/doodle_04)
 
