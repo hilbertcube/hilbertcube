@@ -1,5 +1,5 @@
 
-- I'm currently a undergraduate student at UCLA
+- I'm currently an undergraduate student at UCLA
 - Favorite languages: C++, C, CUDA, Rust, and Python
 - Less favorable: ~~Javascript~~
 - Links:
